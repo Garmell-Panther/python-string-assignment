@@ -26,11 +26,17 @@ Activity 2: Activity Student Information System with File Handling
 
 <br> Adding the student information <br>
 Description: 
-<br> The image shows a possible options when inputing a student_name,student_id,age and grades. <br>
+<br> The image shows a possible options when inputing a student_name,student_id,age and grades inside the Student Information System. <br>
 <img width="1383" height="991" alt="SQL" src="https://github.com/user-attachments/assets/0dd3d7e0-1022-456f-9f4c-c3ee25b9db21" />
 
-<br> Information being added and store to the list <br>
+<br> Information Store in the student.csv <br>
 Description:
 <br> The image shows a store and recorded information previously being input by the user inside the system <br>
+<img width="1381" height="989" alt="Schedule" src="https://github.com/user-attachments/assets/d63c8d91-103f-49b6-8359-53f6ecd618ab" />
+
+<br> Deleting the Student Name <br>
+Description:
+<br> This image shows how the deleting system works inside the Student Information System with File Handling <br>
+<img width="1389" height="999" alt="2" src="https://github.com/user-attachments/assets/3bfaa78d-c930-4b4f-9192-d0251d527408" />
 
 
