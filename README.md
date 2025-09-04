@@ -22,4 +22,15 @@ Your learning experience while solving the assignment <br>
 The assignment made me think that the knowledge of basic Python syntax are understabavke and easily to grasph. 
 
 Activity 2: Activity Student Information System with File Handling
-<br> These are the following description documentation about the acitivty. <br>
+<br> These are the following descriptions that contains the following short documentation about the acitivty for Student Information System with File Handling. <br>
+
+<br> Adding the student information <br>
+Description: 
+<br> The image shows a possible options when inputing a student_name,student_id,age and grades. <br>
+<img width="1383" height="991" alt="SQL" src="https://github.com/user-attachments/assets/0dd3d7e0-1022-456f-9f4c-c3ee25b9db21" />
+
+<br> Information being added and store to the list <br>
+Description:
+<br> The image shows a store and recorded information previously being input by the user inside the system <br>
+
+
