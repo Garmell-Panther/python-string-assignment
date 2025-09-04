@@ -20,3 +20,6 @@ Performing the operation number:
 Your learning experience while solving the assignment <br>
   My learning experience while solving the assignment are fun and challening since it is a self-explore of the usgae and purpose of python.
 The assignment made me think that the knowledge of basic Python syntax are understabavke and easily to grasph. 
+
+Activity 2: Activity Student Information System with File Handling
+<br> These are the following description documentation about the acitivty. <br>
