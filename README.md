@@ -1,5 +1,5 @@
 Activity 1: Assignment Interactive Text Analyzer
-These are the following description documentation about the assignment.
+<br> These are the following description documentation about the assignment. <br>
 
 Short description of your program <br>
   The program language use is Python in this assignment. It will perform from 1 - 9 operation after input the name given in the command promp using the Notepad. 
